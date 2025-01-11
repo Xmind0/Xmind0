@@ -35,7 +35,7 @@
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Rumor/Quote:
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“People only live once. If you does well in life, it can be said that you live for their relatives and friends. If you doesn't do well, it can be said that you live for yourself. Of course, life has no good or bad.”— myself  </i>
+• <i>“People only live once. If you does well in life, it can be said that you live for your relatives and friends. If you doesn't do well, it can be said that you live for yourself. Of course, life has no good or bad.”— myself  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
