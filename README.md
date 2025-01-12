@@ -18,9 +18,10 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> 
       <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/cpp.svg" alt="cpp" width="55" height="55"/>
-      <img src="https://https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="python" width="55" height="55"/>
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_qml.svg" alt="Qt" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/cmake.svg" alt="cmake" width="55" height="55"/>
 </p>
 
 ---
