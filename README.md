@@ -12,7 +12,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a master's degree student in Shanghai, majoring in Control Science
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
-- 💻 I use daily: **.m**, **.py**, **.cpp**
+- 💻 I use daily: **.m**, **.py**, **.cpp**,**.qml**
 - 💬 Talk to me about new interesting tech
 - 🧑‍💻 Tech I work on :
 
@@ -20,6 +20,7 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/cpp.svg" alt="cpp" width="55" height="55"/>
+      <img src="https://https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="python" width="55" height="55"/>
 </p>
 
 ---
